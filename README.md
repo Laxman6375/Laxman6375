@@ -7,7 +7,7 @@
 🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about MERN, JavaScript<br><br>📫 How to reach me laxmansuthar365@gmail.com<br><br>⚡ Fun fact I think I'm a hero
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_lucky.js/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxman-suthar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Laxman_JS) 
 
 # 💻 Tech Stack:
