@@ -16,7 +16,7 @@
 <a href="https://app.daily.dev/laxman6375"><img src="https://api.daily.dev/devcards/v2/EbsoHIhVXbrLspd1mD7UF.png?type=wide&r=483" width="852" alt="Laxman Suthar's Dev Card"/></a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=laxman6375&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laxman6375&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=laxman6375&theme=tokyonight-duo&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laxman6375&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
