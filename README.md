@@ -1,7 +1,7 @@
 <!-- Futuristic 3D Header -->
 <div align="center">
   <!-- 3D Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:22C55E&height=200&section=header&text=Laxman%20Suthar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer&descAlignY=55"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:22C55E&height=200&section=header&text=Laxman%20Suthar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=55"/>
 
   <!-- Animated Tech Title -->
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Expert;React+Specialist;Node.js+Developer)
