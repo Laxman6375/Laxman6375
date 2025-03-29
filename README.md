@@ -21,17 +21,21 @@
 </div>
 
 <div align="left">
-  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZyeDhvd24xZWY1dTR0MGpvYjJtNHg2b3c2aGo2aDJlZGpna2dsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" alt="Coding" width="400" height="225" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZyeDhvd24xZWY1dTR0MGpvYjJtNHg2b3c2aGo2aDJlZGpna2dsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
   ```typescript
   const laxman = {
     location: "India 🇮🇳",
     currentFocus: "MERN Stack Development 🚀",
-    code: ["JavaScript", "TypeScript", "React", "React Native", "Node.js"],
-    askMeAbout: ["Web Dev", "MERN", "JavaScript"],
+    code: ["JS", "TS", "React", "React Native", "Node.js"],
+    askMeAbout: ["Web Dev", "React Native", "MERN", "JavaScript"],
     email: "laxmansuthar365@gmail.com",
-    funFact: "I think I'm a hero 🦸‍♂️"
+    funFact: "I speak fluent JavaScript… and broken English. 😆"
   };
+
+
+
+
   ```
 </div>
 
@@ -49,7 +53,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30)
   ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=30)
-  ![React NATIVE](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=30)
+  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=30)
 
   <!-- Backend -->
