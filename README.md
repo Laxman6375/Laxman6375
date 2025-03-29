@@ -27,7 +27,7 @@
   const laxman = {
     location: "India 🇮🇳",
     currentFocus: "MERN Stack Development 🚀",
-    code: ["JavaScript", "TypeScript", "React", "Node.js"],
+    code: ["JavaScript", "TypeScript", "React", "React Native", "Node.js"],
     askMeAbout: ["Web Dev", "MERN", "JavaScript"],
     email: "laxmansuthar365@gmail.com",
     funFact: "I think I'm a hero 🦸‍♂️"
