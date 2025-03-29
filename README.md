@@ -27,10 +27,10 @@
   const laxman = {
     location: "India 🇮🇳",
     currentFocus: "MERN Stack Development 🚀",
-    code: ["JS", "TS", "React", "React Native", "Node.js"],
+    code: ["JavaScript", "TypeScript", "React", "React Native", "Node.js"],
     askMeAbout: ["Web Dev", "React Native", "MERN", "JavaScript"],
     email: "laxmansuthar365@gmail.com",
-    funFact: "I speak fluent JavaScript… and broken English. 😆"
+    funFact: "One day, I will write a comment that explains everything.🤞"
   };
 
 
